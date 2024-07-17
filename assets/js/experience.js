@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "JUGODO Martial Arts",
     time: "(August, 2020 - Present)",
-    desp: "<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et do.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>",
+    desp: "<li> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et do.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>",
   },
   
 ];
