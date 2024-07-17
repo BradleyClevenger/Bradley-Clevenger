@@ -24,7 +24,11 @@ const techStack = [
     langName: "Python",
     langDesc: "<li>Python is a computer programming language often used to build websites and software, automate tasks, and analyze data.</li>",
   },
-  
+  {
+    langImage: "assets/images/techstack-page/lua.png",
+    langName: "Lua",
+    langDesc: "<li>Lua is a programming language designed primarily for embedded use in applications</li>",
+  },
 ];
 
 const displayTechStacksCards = () => {

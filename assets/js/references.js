@@ -7,7 +7,7 @@ const referenceTable = document.querySelector(".pain");
 const references = [
   {
     sl1: 1,
-    name1 : "Meagan Hogalin",
+    name1 : "Megan Hogalin",
         designation1 : "Team Manager, Rolling Hills Skate",
         image1 : "https://avatars.githubusercontent.com/u/46641503?v=4",
         message1 : "Bradley is a punctual and reliable employee. He is a team player and is always willing to help. His knowledge about skating and skates makes him an excellent skate guard..",
