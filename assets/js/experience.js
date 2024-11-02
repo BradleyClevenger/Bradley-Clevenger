@@ -9,13 +9,13 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Rolling Hills Skate",
     time: "(December, 2023 - present)",
-    desp: "<b>My tenure as a skate guard provided invaluable experience in maintaining a safe and enjoyable environment for recreational activities. The role honed my ability to manage safety concerns, deliver exceptional customer service, and respond effectively to emergencies, all of which are critical skills applicable in various professional settings.</b>",
+    desp: "<b>My tenure as a skate guard provided valuable experience in maintaining a safe and enjoyable environment for recreational activities. The role honed my ability to manage safety concerns, deliver exceptional customer service, and respond effectively to emergencies, all of which are critical skills applicable in various professional settings.</b>",
   },
   {
     title: "Assistant Instructor",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "JUGODO Martial Arts",
-    time: "(August, 2020 - Present)",
+    time: "(August, 2020 - August, 2024)",
     desp: "<li> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et do.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>",
   },
   

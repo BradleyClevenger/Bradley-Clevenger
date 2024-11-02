@@ -3,7 +3,7 @@
     font-size: 1.2rem;
 }
 .gallery_section span {
-    color: #444;
+    color: #b81616;
     margin-bottom: 0.5rem;
 }
 .gallery_section {
@@ -12,7 +12,7 @@
     padding: 0;
     display: flex;
     justify-content: center;
-    background: #fbfbf0;
+    background: #f6fbf0;
 }
 .gallery_section a {
     display: flex;

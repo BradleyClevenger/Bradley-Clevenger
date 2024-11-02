@@ -10,13 +10,13 @@ const references = [
     name1 : "Megan Hogalin",
         designation1 : "Team Manager, Rolling Hills Skate",
         image1 : "https://avatars.githubusercontent.com/u/46641503?v=4",
-        message1 : "Bradley is a punctual and reliable employee. He is a team player and is always willing to help. His knowledge about skating and skates makes him an excellent skate guard..",
+        message1 : "Bradley is a punctual and reliable employee. He is a team player and is always willing to help.",
         
 
         sl2:2,
         name2 : "John Doe",
         designation2 : "Senior Analyst, Capgemini", 
-        image2: "https://avatars.githubusercontent.com/u/40017559?v=4",
+        image2: "https://avatars.gitubusercontent.com/u/40017559?v=4",
         message2 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper a lacus vestibulum sed.",
         
         
@@ -26,14 +26,14 @@ const references = [
         sl1:3,
         name1 : "John Doe",
         designation1 : "Technical Analyst, Amazon",
-        image1 : "https://media-exp1.licdn.com/dms/image/C5603AQGEV-kzawPxjw/profile-displayphoto-shrink_800_800/0/1588602102622?e=1651708800&v=beta&t=8nxhFoR-WB4OKVltyYaVjmRpig_kQcvFsoa-eLjJPBQ",
+        image1 : "https://media-exp1.licdn.com/ms/image/C5603AQGEV-kzawPxjw/profile-displayphoto-shrink_800_800/0/1588602102622?e=1651708800&v=beta&t=8nxhFoR-WB4OKVltyYaVjmRpig_kQcvFsoa-eLjJPBQ",
         message1 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis egestas pretium aenean pharetra. Egestas purus viverra accumsan in nisl nisi scelerisque eu. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu.",
         
 
         sl2:4,
         name2 : "John Doe",
         designation2 : "Data Scientist, Flipkart",
-        image2 : "https://avatars.githubusercontent.com/u/59832779?v=4",
+        image2 : "https://avatars.githubuserconent.com/u/59832779?v=4",
         message2 : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl condimentum id venenatis a condimentum vitae. Quis enim lobortis scelerisque fermentum.",
   },
 ];
