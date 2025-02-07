@@ -28,7 +28,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="reference.html">References</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="techstack.html">TechStack</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="design.html">Gallery</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="404.html">Click Me</a></li>
    
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
@@ -257,7 +257,7 @@ let footer = $(`
 
     
     </div>
-    <b1> Copyright © 2024 Bradley Clevenger. All rights reserved. Version 1.0.2 </b1>
+    <b1> Copyright © 2025 Bradley Clevenger. All rights reserved. Version 1.0.3 </b1>
     </div>
     
 </footer>

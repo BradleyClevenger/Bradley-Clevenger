@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "JUGODO Martial Arts",
     time: "(August, 2020 - August, 2024)",
-    desp: "<li> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et do.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>",
+    desp: "<b>As an Assistant Instructor at JUGODO Martial Arts, I assisted in teaching techniques, correcting form, and ensuring a safe training environment. I supported the head instructor, guided students, and helped organize drills to improve their skills and confidence.</b>",
   },
   
 ];
