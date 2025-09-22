@@ -21,11 +21,11 @@ body * {
 .cursor-dot {
   width: 10px;
   height: 10px;
-  background-color: #ffffff;
+  background-color: #ee19ca;
 }
 
 .cursor-dot-outline {
   width: 20px;
   height: 20px;
-  background-color: #ffffff;
+  background-color: #e4f129;
 }
